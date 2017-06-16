@@ -1,9 +1,17 @@
 {
     "name": "cjkmerriman-api",
     "main": "server.js",
+    "version": "0.1.1",
     "dependencies": {
         "express": "~4.15.0",
         "mongoose": "~4.10.6",
         "body-parser": "~1.17.2"
-    }
+    },
+    "license": "MIT",
+    "engines": {
+    	"node": "6.10.2"
+  	},
+  	"scripts": {
+    	"start": "node index.js"
+  	},
 }
