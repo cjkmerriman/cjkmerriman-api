@@ -1,0 +1,9 @@
+{
+    "name": "cjkmerriman-api",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.15.0",
+        "mongoose": "~4.10.6",
+        "body-parser": "~1.17.2"
+    }
+}
